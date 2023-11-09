@@ -1,3 +1,16 @@
+
 .home{
-    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; // Adjust the height as needed
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("./image/OIP.jpeg");
+   
+
 }
+  
